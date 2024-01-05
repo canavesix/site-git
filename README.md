@@ -1,2 +1,5 @@
-# site-git
-site fake para teste de aprendizado de GIT e GITHUB
+## Bem vindo ao curso de Git e Github
+Nesse curso aprendi muitas funcionalidades do Git e GitHub
+
+## Módulos
+Entendendo oque é git, Aprendendo sobre repositórios, Trabalhando com branches
