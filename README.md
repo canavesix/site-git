@@ -10,6 +10,9 @@ Nesse curso aprendi muitas funcionalidades do **Git** e **GitHub**, ele tem liga
 * Usando GitHub de forma profissional.
 
 1. Começando com Git.
+    1. Oque é git?
+    2. Instalando git na máquina
+    
 2. Aprendendo sobre Branches.
 3. GIT Avançado
 4. Usando GitHub de forma profissional
