@@ -1,6 +1,6 @@
 ![Logo do git](https://danizavtz.com.br/content/images/size/w2000/2021/08/GitHub-Logo-650x366.png)
 
-## Bem vindo ao curso de Git e Github
+# Bem vindo ao curso de Git e Github #
 Nesse curso aprendi muitas funcionalidades do **Git** e **GitHub**, ele tem ligação com o outro repositório do meu **GitHub** -> [Esse cara](https://github.com/canavesix/curso_github)
 
 **Ultimas updates:**
@@ -50,3 +50,10 @@ function showName(name){
     <span>Curso Git</span>
 </h1>
 ```
+
+Propriedade | Descrição
+----------- | ---------
+Name | Informar o nome do usuário
+size | Para definir o tamanho do campo
+Background | Cor de fundo da area HEX
+onPress | Função chamada quando clicar no botão
