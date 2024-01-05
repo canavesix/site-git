@@ -4,7 +4,15 @@
 Nesse curso aprendi muitas funcionalidades do **Git** e **GitHub**, ele tem ligação com o outro repositório do meu **GitHub** -> [Esse cara](https://github.com/canavesix/curso_github)
 
 ## Módulos
-_Entendendo oque é **git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**._
+* Começando com Git.
+* Aprendendo sobre Branches.
+* GIT Avançado
+* Usando GitHub de forma profissional.
+
+1. Começando com Git.
+2. Aprendendo sobre Branches.
+3. GIT Avançado
+4. Usando GitHub de forma profissional
 
 ### Rede social:
 [Linkedin](https://www.linkedin.com/in/gustavo-canavesi/)
