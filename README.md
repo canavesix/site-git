@@ -3,6 +3,11 @@
 ## Bem vindo ao curso de Git e Github
 Nesse curso aprendi muitas funcionalidades do **Git** e **GitHub**, ele tem ligação com o outro repositório do meu **GitHub** -> [Esse cara](https://github.com/canavesix/curso_github)
 
+**Ultimas updates:**
+- [x] Site responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
+
 ## Módulos
 * Começando com Git.
 * Aprendendo sobre Branches.
