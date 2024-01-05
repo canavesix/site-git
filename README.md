@@ -1,6 +1,6 @@
 ![Logo do git](https://danizavtz.com.br/content/images/size/w2000/2021/08/GitHub-Logo-650x366.png)
 
-# MarkDown #
+# MarkDown. #
 >Coloquei nesse Readme tudo que aprendi no curso sobre Markdown :D.
 
 ## Bem vindo ao curso de Git e Github ##
@@ -34,7 +34,7 @@ Nesse curso aprendi muitas funcionalidades do **Git** e **GitHub**, ele tem liga
 >
 >Segunda area destacada
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto: ###
 ```
 npm start
 ```
